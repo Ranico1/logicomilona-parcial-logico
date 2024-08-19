@@ -120,3 +120,4 @@ calificacionGastronomica(Restaurante, Calificacion) :-
     cantidadDePlatosRestaurante(Restaurante, CantPlatos),
     Calificacion is CantPlatos * 5. 
 
+% prueba 
